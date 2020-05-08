@@ -1,0 +1,37 @@
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\bin\Debug\netstandard2.0\MyProject.deps.json
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\bin\Debug\netstandard2.0\MyProject.dll
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\bin\Debug\netstandard2.0\MyProject.pdb
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.csprojAssemblyReference.cache
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MerchandisersPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyClientsPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyMerchandisersPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\NewClientPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\NewMerchandiserPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\SupervisorsPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.AssemblyInfo.cs
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.dll
+C:\Users\dsunl\Desktop\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.pdb
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\bin\Debug\netstandard2.0\MyProject.deps.json
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\bin\Debug\netstandard2.0\MyProject.dll
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\bin\Debug\netstandard2.0\MyProject.pdb
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.csprojAssemblyReference.cache
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MerchandisersPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyClientsPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyMerchandisersPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\NewClientPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\NewMerchandiserPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\SupervisorsPage.xaml.g.cs
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.AssemblyInfo.cs
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.dll
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.pdb
+C:\Users\dsunl\Desktop\Mobile Development\Xamarin\MyProject\MyProject\MyProject\obj\Debug\netstandard2.0\TimerPage.xaml.g.cs

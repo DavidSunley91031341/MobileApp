@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MyProject"
+             x:Class="MyProject.MainPage"
+             BackgroundColor="DarkBlue">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome" 
+            HorizontalOptions="Center"
+            FontSize="Large"
+            FontAttributes="Bold"
+            TextColor="LightGray"
+            VerticalOptions="CenterAndExpand" />
+        <Button Text="Supervisors" Clicked="SupervisorsButton_Clicked" 
+            CornerRadius="25"
+            WidthRequest="200"
+            BackgroundColor="LightGray"
+            HorizontalOptions="Center"    />
+        <Button Text="Merchandisers" Clicked="MerchandisersButton_Clicked"
+            CornerRadius="25"
+            WidthRequest="200"
+            BackgroundColor="LightGray"
+            HorizontalOptions="Center"    />
+        <Button Text="Timer" Clicked="TimerButton_Clicked"
+            CornerRadius="25"
+            WidthRequest="200"
+            BackgroundColor="LightGray"
+            HorizontalOptions="Center"    />
+        <Label x:Name="OutputBox" Text="" 
+            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand" />
+
+
+    </StackLayout>
+
+</ContentPage>
